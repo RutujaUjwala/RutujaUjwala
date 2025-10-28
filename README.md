@@ -81,7 +81,7 @@ I'm a passionate Data Scientist specializing in Machine Learning and Deep Learni
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RutujaUjwalaE&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RutujaUjwala&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaUjwala&layout=compact&theme=radical)
 
