@@ -120,4 +120,4 @@ I believe that data science is not just about algorithms and models, but about t
 
 💡 *"In God we trust, all others must bring data."* - W. Edwards Deming
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=RutujaUwala&color=blue)
