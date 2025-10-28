@@ -98,7 +98,6 @@ I'm a passionate Data Scientist specializing in Machine Learning and Deep Learni
 ### 🤝 Let's Connect
 
 - 💼 LinkedIn:(https://www.linkedin.com/in/rutujajju/)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
 - 📧 Email: rutujaprojectmanager@gmail.com
 
 
