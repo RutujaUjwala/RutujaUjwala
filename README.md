@@ -67,7 +67,7 @@ I'm a passionate Data Scientist specializing in Machine Learning and Deep Learni
 - Optimized inference speed and accuracy for deployment
 - Created detection pipeline with post-processing and visualization
 
-**🏦 [Bank Churn Prediction](https://github.com/RutujaUjwala/bank-churn-prediction)**
+**🏦 [Bank Churn Prediction](https://github.com/RutujaUjwala/Bank_churn_new)**
 - Developed ML model to predict customer churn with 85%+ accuracy
 - Performed extensive EDA and feature engineering on banking data
 - Implemented ensemble methods (XGBoost, Random Forest, LightGBM)
