@@ -152,20 +152,6 @@ Stay tuned for updates!
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RutujaUjwala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RutujaUjwala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaUjwala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🎯 What I'm Currently Working On
 
