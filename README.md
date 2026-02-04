@@ -11,7 +11,6 @@ Passionate about transforming data into actionable insights. I specialize in bui
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutujajju/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutujaworkcode@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RutujaUjwala)
 
 ---
