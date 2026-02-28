@@ -183,9 +183,6 @@ current_focus = {
 
 <p>I'm always interested in collaborating on innovative ML/AI projects and discussing data science challenges.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutujajju/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutujaworkcode@gmail.com)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=RutujaUjwala&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
