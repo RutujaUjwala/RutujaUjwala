@@ -10,9 +10,6 @@
 Passionate about transforming data into actionable insights. I specialize in building intelligent solutions using Machine Learning, Deep Learning, and Advanced Analytics.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutujajju/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RutujaUjwala)
-
 ---
 
 ## 🛠️ Technology Stack
